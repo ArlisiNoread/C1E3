@@ -38,7 +38,7 @@ public class Principal {
 
 		// Distribuyo las onzas totales de mayor unidad a menor unidad buscando unidades
 		// totales.
-		// Voy quitango el número de Unidades Respectivas del total de onzas en cada
+		// Voy quitando el número de 'Unidades Respectivas' del total de onzas en cada
 		// paso.
 		Galon galones = new Galon((int) onzas.toGalon().getValor());
 
